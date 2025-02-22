@@ -1,0 +1,25 @@
+{
+  "name": "personal-learning-apps-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "format": "prettier --write \"./pages/**/*.{md,mdx,json,js,yaml,css}\""
+  },
+  "dependencies": {
+    "next": "^14.2.24",
+    "nextra": "^2.13.4",
+    "nextra-theme-docs": "^2.13.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.13.4",
+    "prettier": "3.5.1",
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}
