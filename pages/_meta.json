@@ -1,6 +1,6 @@
 {
   "index": "ホーム",
-  "TypeScript": "TypeScript",
-  "Python": "Python",
-  "Java": "Java"
+  "typescript": "TypeScript",
+  "python": "Python",
+  "java": "Java"
 }
