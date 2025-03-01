@@ -1,13 +1,13 @@
 {
   "event-management-app-curriculum": "イベント管理アプリ カリキュラム",
-  "project-setup": "プロジェクトのセットアップ",
-  "basic-page-creation-routing": "基本的なページ作成とルーティング",
-  "typescript-basics": "TypeScriptの基礎と型安全な開発",
-  "nextjs-api-routes": "Next.js APIルートの実装",
-  "client-data-fetching-state-management": "クライアントサイドデータフェッチングと状態管理",
-  "form-creation-validation": "フォーム作成とバリデーション",
-  "ui-ux-styling": "UI/UXの向上とスタイリング",
-  "authentication-security": "認証とセキュリティ（オプション）",
-  "performance-deploy": "パフォーマンス最適化とデプロイ",
-  "testing-refactoring": "テストとリファクタリング"
+  "1-project-setup": "プロジェクトのセットアップ",
+  "2-basic-page-creation-routing": "基本的なページ作成とルーティング",
+  "3-typescript-basics": "TypeScriptの基礎と型安全な開発",
+  "4-nextjs-api-routes": "Next.js APIルートの実装",
+  "5-client-data-fetching-state-management": "クライアントサイドデータフェッチングと状態管理",
+  "6-form-creation-validation": "フォーム作成とバリデーション",
+  "7-ui-ux-styling": "UI/UXの向上とスタイリング",
+  "8-authentication-security": "認証とセキュリティ（オプション）",
+  "9-performance-deploy": "パフォーマンス最適化とデプロイ",
+  "10-testing-refactoring": "テストとリファクタリング"
 }
